@@ -1,0 +1,43 @@
+@charset "utf-8";
+body {
+    background-color: #FDD682;
+}
+.pp_footer {
+    background-color: #EDA303;
+    color: #000000;
+    padding: 10px;
+    border-spacing: 0 0;
+    text-align: center;
+}
+.nav-style {
+    background-color: #FCC650;
+}
+.nav-link {
+    color: #575DA0;
+    font-style: italic;
+}
+.nav-style-carrousel {
+    color: #151E86;
+}
+
+h5 {
+    color: #000000;
+    font-size: xx-large;
+    font-style: italic;
+}
+
+.btn-style {
+    background-color: #000757;
+    color: #FDD682;
+    font-style: italic;
+}
+.h5-2 {
+    font-style: normal;
+    font-size: xx-large;
+    text-transform: uppercase;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    color: #000978;
+    line-height: 0ex;
+}
+.h5-2 {
+}
